@@ -1,0 +1,10 @@
+If I see error in the logs :
+
+internal/modules/cjs/loader.js:797
+    throw err;
+
+
+
+npm install --save react react-dom next
+
+or npm install next
